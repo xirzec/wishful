@@ -1,0 +1,19 @@
+{
+  "name": "wishful-promises",
+  "version": "0.0.1",
+  "description": "A Promises A+ implementation, just for kicks",
+  "main": "wishful.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xirzec/wishful.git"
+  },
+  "author": "Jeff Fisher",
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.1",
+    "typescript": "^1.6.0-beta"
+  }
+}
